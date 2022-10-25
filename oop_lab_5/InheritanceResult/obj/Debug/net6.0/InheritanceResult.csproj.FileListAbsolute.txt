@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.AssemblyInfo.cs
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\bin\Debug\net6.0\InheritanceResult.exe
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\bin\Debug\net6.0\InheritanceResult.deps.json
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\bin\Debug\net6.0\InheritanceResult.runtimeconfig.json
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\bin\Debug\net6.0\InheritanceResult.dll
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\bin\Debug\net6.0\InheritanceResult.pdb
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.dll
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\refint\InheritanceResult.dll
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.pdb
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\InheritanceResult.genruntimeconfig.cache
+C:\Users\user\Desktop\oop_lab_5\InheritanceResult\obj\Debug\net6.0\ref\InheritanceResult.dll
